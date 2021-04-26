@@ -90,52 +90,132 @@
       "oAP" : "\/dev\/content\/svg\/foreground.html",
       "oF" : 0
     },
+    "\/dev\/content\/svg\/foreground\/front\/cactus1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/cactus1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/front\/cactus2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/cactus2.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/front\/cactus3.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/cactus3.html",
+      "oF" : 0
+    },
     "\/dev\/content\/svg\/foreground\/front\/front.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/svg\/foreground\/front\/front.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.kit" : {
+    "\/dev\/content\/svg\/foreground\/front\/spaceship.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/spaceship.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.kit" : {
+    "\/dev\/content\/svg\/foreground\/middle\/mountains.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountains.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/red-mtn.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/red-mtn.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/moon.kit" : {
+    "\/dev\/content\/svg\/foreground\/skyelements\/asteroid.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/moon.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/asteroid.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/asteroid2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/asteroid2.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/moon.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/moon.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/planet.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/planet.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/shootingstar1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/shootingstar1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/shootingstar2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/shootingstar2.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/shootingstar3.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/shootingstar3.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/stars.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/stars.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/sun.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/sun.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/skyelements\/ufo.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/foreground\/skyelements\/ufo.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -178,9 +258,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/dev\/js\/fadeIn-min.js",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oF" : 3,
       "sC" : 3,
       "tS" : 0
     },
@@ -200,9 +280,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/dev\/js\/zoomIn-min.js",
-      "oF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/js\/scripts-min.js",
+      "oF" : 3,
       "sC" : 3,
       "tS" : 0
     },
