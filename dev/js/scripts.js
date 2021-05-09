@@ -7,6 +7,7 @@ import { zoomTL } from "./zoomIn"
 import { fadeInTL } from "./fadeIn"
 import { liftOffTL } from "./liftOff"
 import { planetZoomTL } from "./planetZoom"
+import { asteroidFlyTL } from "./asteroidFly"
 import { landingTL } from "./landing"
 
 gsap.registerPlugin(GSDevTools);
@@ -20,6 +21,8 @@ mainTL.add(fadeInTL)
         .add(liftOffTL)
         
         .add(planetZoomTL)
+
+        .add(asteroidFlyTL)
 
         .add(landingTL);
 

@@ -1,5 +1,4 @@
 import { gsap } from "gsap";
 
 export let landingTL = gsap.timeline();
-
-landingTL.to("#aestroid1",{duration:1, y:"-7", rotation: -1, repeat: 2, ease: "power4.in"})
+        landingTL.to("#spaceship",{duration:1, x:"-=100", y:"-=200", scale: 0.1, rotation:"-=15"},)
