@@ -9,6 +9,8 @@ import { liftOffTL } from "./liftOff"
 import { planetZoomTL } from "./planetZoom"
 import { asteroidFlyTL } from "./asteroidFly"
 import { landingTL } from "./landing"
+import { shootingStarsTL } from "./shootingStars"
+import { ufoEndingTL } from "./ufoEnding"
 
 gsap.registerPlugin(GSDevTools);
 
@@ -22,9 +24,13 @@ mainTL.add(fadeInTL)
         
         .add(planetZoomTL)
 
+        .add(landingTL)
+        
         .add(asteroidFlyTL)
-
-        .add(landingTL);
+        
+        .add(shootingStarsTL)
+        
+        .add(ufoEndingTL);
 
 
 // console.log(numberThing);
