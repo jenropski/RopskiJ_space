@@ -6,6 +6,8 @@ import {numberThing} from "./demo-this"
 import { zoomTL } from "./zoomIn"
 import { fadeInTL } from "./fadeIn"
 import { liftOffTL } from "./liftOff"
+import { planetZoomTL } from "./planetZoom"
+import { landingTL } from "./landing"
 
 gsap.registerPlugin(GSDevTools);
 
@@ -15,7 +17,11 @@ mainTL.add(fadeInTL)
 
         .add(zoomTL)
 
-        .add(liftOffTL);
+        .add(liftOffTL)
+        
+        .add(planetZoomTL)
+
+        .add(landingTL);
 
 
 // console.log(numberThing);

@@ -11,4 +11,5 @@ zoomTL.from("#background",{duration:5.75, scale:10,ease: "power4.out",y:"+=800"}
             .from("#cactus3",{duration:4.75, scale:10,ease: "power4.out",y:"+=420"},"zoom")
             .from("#mountains",{duration:4.75, scale:10,ease: "power4.out",y:"+=420"},"zoom")
             .from("#spaceship",{duration:4.75, scale:10,ease: "power4.out",y:"+=420"},"zoom")
-            
+            .from("#sun",{duration:4.75, scale:15,ease: "power4.out",y:"+=700"},"zoom")
+            .from("#moon",{duration:4.75, scale:15,ease: "power4.out",y:"+=700"},"zoom")
