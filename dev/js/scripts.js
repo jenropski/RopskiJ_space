@@ -1,7 +1,7 @@
 import { gsap } from "gsap";
 import { GSDevTools } from "gsap/GSDevTools";
 
-import {numberThing} from "./demo-this"
+// import {numberThing} from "./demo-this"
 
 import { zoomTL } from "./zoomIn"
 import { fadeInTL } from "./fadeIn"
@@ -24,7 +24,7 @@ mainTL.add(fadeInTL)
         
         .add(planetZoomTL)
 
-        .add(landingTL)
+        .add(landingTL) 
         
         .add(asteroidFlyTL)
         
@@ -35,4 +35,4 @@ mainTL.add(fadeInTL)
 
 // console.log(numberThing);
 
-GSDevTools.create();
+// GSDevTools.create();

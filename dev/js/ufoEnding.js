@@ -8,7 +8,7 @@ gsap.registerPlugin(MotionPathPlugin, MotionPathHelper);
 export let ufoEndingTL = gsap.timeline();
 gsap.set("#ufo",{transformOrigin:"center"});
 
-ufoEndingTL.to("#ufo", {
+ufoEndingTL.from("#ufo", {
     duration: 8,
     motionPath: {
         path: "#ufoPath",
