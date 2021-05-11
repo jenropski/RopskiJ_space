@@ -12,6 +12,8 @@ import { landingTL } from "./landing"
 import { shootingStarsTL } from "./shootingStars"
 import { ufoEndingTL } from "./ufoEnding"
 
+
+
 gsap.registerPlugin(GSDevTools);
 
 let mainTL = gsap.timeline();
@@ -35,4 +37,4 @@ mainTL.add(fadeInTL)
 
 // console.log(numberThing);
 
-// GSDevTools.create();
+GSDevTools.create();

@@ -18,5 +18,8 @@ ufoEndingTL.from("#ufo", {
     },
     ease: "none",
     scale:1.5
-});
+})
 
+.to("#ufo", {duration: 2 , y:"-500",x:"1000", scale: 5})
+.to("#planet", {duration: .08 , y:"-500",x:"1000", scale: .5})
+.to("#spaceship", {duration: .08, y:"-500",x:"1000", scale: .0009})
